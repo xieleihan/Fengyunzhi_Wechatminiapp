@@ -1,0 +1,9 @@
+<view class="home">
+  <view class="top">
+    <image class="img" src="/assets/icon/gps.png" mode=""/>
+    <text bindtap="handleGetLocation">{{ gpsInfo }}</text>
+  </view>
+  <view class="container">
+  
+  </view>
+</view>
